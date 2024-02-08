@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itish
+- 👋 Hi, I’m Itish
 - 👀 I’m interested in Back-End technologies.
 - 🌱 I’m currently learning Golang JWT.
 - 💞️ I’m looking to collaborate on Back-End Projects.
